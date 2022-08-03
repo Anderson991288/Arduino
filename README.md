@@ -155,9 +155,12 @@ static int waveformsTable[maxWaveform][maxSamplesNum] = {
 #endif 
 ```
 
-### 4.編寫完程式後上傳到Arduino Due上，若上傳失敗有可能是因為開發版沒設定好，可自行檢查一下
+### 4.編寫完程式後上傳到Arduino Due上，若上傳失敗有可能是因為開發版/序列埠沒設定好，可自行檢查一下
 
 ![螢幕擷取畫面 2022-08-03 222153](https://user-images.githubusercontent.com/68816726/182632484-4b9fff82-aa0b-439e-b1a1-5a503f5b3a53.png)
 
+### 5.接上示波器觀察波形
+
+![GAS0001](https://user-images.githubusercontent.com/68816726/182632926-d2ccaf2c-0096-44c7-b5ee-06a98df4fa1b.jpg)
 
 
