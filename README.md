@@ -163,4 +163,10 @@ static int waveformsTable[maxWaveform][maxSamplesNum] = {
 
 ![GAS0001](https://user-images.githubusercontent.com/68816726/182632926-d2ccaf2c-0096-44c7-b5ee-06a98df4fa1b.jpg)
 
+![GAS0003](https://user-images.githubusercontent.com/68816726/182760688-5ab8d9d4-49ac-40af-baba-a5ab2362a359.png)
+
+![GAS0002](https://user-images.githubusercontent.com/68816726/182760726-18baed71-1a2a-439c-b63c-8c8ead6aef62.jpg)
+
+
+
 
