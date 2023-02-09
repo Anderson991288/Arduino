@@ -2,11 +2,11 @@
 
 ## Simple Waveform Generator with Arduino Due
 
-### 1.接好以下電路
+### 1. Connect the following circuits
 
 ![螢幕擷取畫面 2022-08-03 221310](https://user-images.githubusercontent.com/68816726/182630198-da3fe555-0acf-4ddd-af5b-8b55d3c59ad3.png)
 
-### 2.開啟Arduino IDE 編寫程式
+### 2. Open Arduino IDE to write the program
 
 frequencyUserInput.ino
 
@@ -73,7 +73,7 @@ void wave1Select() {
 }
 ```
 
-### 3. 製作Waveforms.h，將以下程式碼複製到文字編輯程式(eg:記事本、Notepad)並將檔名設為Waveforms.h
+### 3. Make Waveforms.h, copy the following code to a text editing program and rename the file name as Waveforms.h
 
 ```
 #ifndef _Waveforms_h_
@@ -155,11 +155,12 @@ static int waveformsTable[maxWaveform][maxSamplesNum] = {
 #endif 
 ```
 
-### 4.編寫完程式後上傳到Arduino Due上，若上傳失敗有可能是因為開發版/序列埠沒設定好，可自行檢查一下
+### 4. Upload the program to Arduino Due after programming, if the upload fails, it may be because the development version / serial port is not set properly, you can check it yourself.
+
 
 ![螢幕擷取畫面 2022-08-03 222153](https://user-images.githubusercontent.com/68816726/182632484-4b9fff82-aa0b-439e-b1a1-5a503f5b3a53.png)
 
-### 5.接上示波器觀察波形
+### 5. Connect the oscilloscope to observe the waveform
 
 ![GAS0001](https://user-images.githubusercontent.com/68816726/182632926-d2ccaf2c-0096-44c7-b5ee-06a98df4fa1b.jpg)
 
