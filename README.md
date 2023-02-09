@@ -1,6 +1,6 @@
 # Arduino 
 
-# Simple Waveform Generator with Arduino Due
+## Simple Waveform Generator with Arduino Due
 
 ### 1.接好以下電路
 
